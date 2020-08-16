@@ -28,6 +28,6 @@ jobs:
     - name: 'Deploy to Azure Web App'
       uses: azure/webapps-deploy@v2
       with:
-        app-name: 'mridu-portfolio'
+        app-name: 'mridulah-portfolio'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_e77d11bf907d4f129929dcdf97a6131a }}
         package: .
