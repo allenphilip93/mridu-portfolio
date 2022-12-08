@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/allenphilip93/allen-portfolio#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "morgan": "^1.10.0",
     "send": "^0.17.1",
     "statuses": "^2.0.0"
